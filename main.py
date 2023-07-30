@@ -4,5 +4,5 @@ c = 5
 print(b - c)
 #for b in range(5):
 #    print(b)
-bitch = 10
+bitch = 9
 print(f"i know my body is {bitch}")
