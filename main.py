@@ -7,3 +7,4 @@ print(b - c)
 bitch = 9
 print(f"i know my body is {bitch}")
 print("Get Out")
+WWEWA
