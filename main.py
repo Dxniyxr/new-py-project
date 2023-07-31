@@ -6,3 +6,5 @@ print(b - c)
 #    print(b)
 bitch = 9
 print(f"i know my body is {bitch}")
+
+F U B
